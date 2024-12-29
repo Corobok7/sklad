@@ -15,7 +15,7 @@ Toto je webová aplikácia navrhnutá na správu zásob na sklade. Umožňuje po
 Tento systém je praktickým riešením na správu zásob a zabezpečuje, že všetci členovia tímu majú rovnaké informácie o aktuálnych zásobách.
 
 ### Zakladna stranka 
-[image](https://github.com/user-attachments/assets/88738296-e670-4c66-8c7f-8d3e4873d847)
+![image](https://github.com/user-attachments/assets/88738296-e670-4c66-8c7f-8d3e4873d847)
 
 ### Ptidanie a vymayovanie tovaru
 ![image](https://github.com/user-attachments/assets/0cd3f7ee-15bd-4120-bc7d-e83d2b8216ef)

@@ -14,6 +14,4 @@ Toto je webová aplikácia navrhnutá na správu zásob na sklade. Umožňuje po
 
 Tento systém je praktickým riešením na správu zásob a zabezpečuje, že všetci členovia tímu majú rovnaké informácie o aktuálnych zásobách.
 
----
-
-Если нужно что-то изменить или добавить, дайте знать!
+![image](https://github.com/user-attachments/assets/88738296-e670-4c66-8c7f-8d3e4873d847)
